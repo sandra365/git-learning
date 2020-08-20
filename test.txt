@@ -1,2 +1,2 @@
 Hello from Oleh
-Git pull - Git push :P
+Git pull - Git push 
